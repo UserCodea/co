@@ -1,0 +1,6 @@
+in lda
+fit() --- compute mean and standard deviation of data
+transform -- parameters generated from fit() applied on data 
+fit_transform()= fit()+transform() on data
+just transform() for test data
+fit_transform()  for training data
